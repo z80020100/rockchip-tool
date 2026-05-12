@@ -16,3 +16,7 @@
 
 # Compiled executables
 *.exe
+
+# Autotools build artifacts
+.deps/
+.dirstamp
